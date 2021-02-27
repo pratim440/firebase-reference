@@ -1,0 +1,28 @@
+.imgUploadContainer {
+  flex-direction: column;
+}
+.imgDiv {
+  width: 100vw;
+  display: flex;
+  margin-top: 40px;
+  padding: 20px 100px;
+  flex-wrap: wrap;
+}
+.img {
+  width: 190px;
+  height: 120px;
+  object-fit: contain;
+}
+.imgPost {
+  padding: 5px 0;
+  border: 2px solid grey;
+  flex-direction: column;
+  width: 200px;
+  object-fit: contain;
+  height: 180px;
+  justify-content: space-between;
+  margin: 10px;
+}
+.imageupload__progress {
+  width: 15%;
+}

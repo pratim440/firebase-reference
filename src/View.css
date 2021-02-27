@@ -1,0 +1,9 @@
+.view_outer {
+  width: 60%;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.view_buttons {
+  width: 250px;
+  justify-content: space-around;
+}

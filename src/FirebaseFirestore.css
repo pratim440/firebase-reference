@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  flex-direction: column;
+}
+.input {
+  margin: 30px 0;
+  width: 40%;
+  justify-content: space-between;
+}
+.viewContainer {
+  width: 100%;
+  flex-direction: column;
+}
